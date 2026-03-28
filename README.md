@@ -25,9 +25,5 @@ api-ping monitor
 
 ![udinsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=udinsp&show_icons=true&theme=tokyonight)
 
-## 📫 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/udinsp)
-
 ---
 *"Don't let today pass by — make every moment an opportunity to learn, grow, and achieve your dreams."*
